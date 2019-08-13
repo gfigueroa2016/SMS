@@ -1,0 +1,10 @@
+C:\Users\gfigueroa\Desktop\Repositories\SMS\SMS\bin\Debug\SMS.exe.config
+C:\Users\gfigueroa\Desktop\Repositories\SMS\SMS\bin\Debug\SMS.exe
+C:\Users\gfigueroa\Desktop\Repositories\SMS\SMS\bin\Debug\SMS.pdb
+C:\Users\gfigueroa\Desktop\Repositories\SMS\SMS\obj\Debug\SMS.csprojAssemblyReference.cache
+C:\Users\gfigueroa\Desktop\Repositories\SMS\SMS\obj\Debug\SMS.Student_Registry_Form.resources
+C:\Users\gfigueroa\Desktop\Repositories\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+C:\Users\gfigueroa\Desktop\Repositories\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.cache
+C:\Users\gfigueroa\Desktop\Repositories\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+C:\Users\gfigueroa\Desktop\Repositories\SMS\SMS\obj\Debug\SMS.exe
+C:\Users\gfigueroa\Desktop\Repositories\SMS\SMS\obj\Debug\SMS.pdb
